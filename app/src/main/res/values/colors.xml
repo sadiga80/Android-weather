@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#F08080</color>
+    <color name="colorPrimaryDark">#CD5C5C</color>
+    <color name="colorAccent">#FA8072</color>
+    <color name="colorBackground">#303030</color>
+    <color name="colorTintedBackground">#424242</color>
+
+    <color name="darkTheme_colorPrimary">#2196F3</color>
+    <color name="darkTheme_colorPrimaryDark">#1E88E5</color>
+    <color name="darkTheme_colorAccent">#2196F3</color>
+    <color name="darkTheme_colorBackground">#303030</color>
+    <color name="darkTheme_colorTintedBackground">#424242</color>
+
+    <color name="blackTheme_colorPrimary">#0097A7</color>
+    <color name="blackTheme_colorPrimaryDark">#006064</color>
+    <color name="blackTheme_colorAccent">#80deea</color>
+    <color name="blackTheme_colorBackground">#000000</color>
+    <color name="blackTheme_colorTintedBackground">#303030</color>
+
+    <color name="classic_colorPrimary">#EF6C00</color>
+    <color name="classic_colorPrimaryDark">#E65100</color>
+    <color name="classic_colorAccent">#FFA726</color>
+    <color name="classic_colorBackground">@android:color/transparent</color>
+    <color name="classic_colorTintedBackground">#cdcdcd</color>
+
+    <color name="classic_darkTheme_colorPrimary">#E64A19</color>
+    <color name="classic_darkTheme_colorPrimaryDark">#BF360C</color>
+    <color name="classic_darkTheme_colorAccent">#FF7043</color>
+    <color name="classic_darkTheme_colorBackground">#303030</color>
+    <color name="classic_darkTheme_colorTintedBackground">#263238</color>
+
+    <color name="classic_blackTheme_colorPrimary">#757575</color>
+    <color name="classic_blackTheme_colorPrimaryDark">#424242</color>
+    <color name="classic_blackTheme_colorAccent">#BDBDBD</color>
+    <color name="classic_blackTheme_colorBackground">#BEBEBE</color>
+    <color name="classic_blackTheme_colorTintedBackground">#303030</color>
+
+    <color name="splashBackground">#FFA726</color>
+
+    <color name="text_light">#ffffff</color>
+    <color name="text_dark">#000000</color>
+    <color name="tab_indicator">#ffffff</color>
+</resources>

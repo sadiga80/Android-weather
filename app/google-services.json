@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "753267064836",
+    "firebase_url": "https://weatherinfo-cef50.firebaseio.com",
+    "project_id": "weatherinfo-cef50",
+    "storage_bucket": "weatherinfo-cef50.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:753267064836:android:13e009316ee69eea",
+        "android_client_info": {
+          "package_name": "com.appsan.weather_info"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "753267064836-uibs7fk67k3a9gac2sllgd4kpcb550mp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.appsan.weather_info",
+            "certificate_hash": "ad1d358823aefa65d893391e533a7e857cbfc549"
+          }
+        },
+        {
+          "client_id": "753267064836-rbui7v9d91pdlk7d13soslqlhh92j0mg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7VYVwkEzIJdHcqVxlQ1OcuDP-a9FU7A0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "753267064836-rbui7v9d91pdlk7d13soslqlhh92j0mg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

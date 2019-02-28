@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/santhoshadigau/.gradle/wrapper/dists/gradle-1.12-all/caches/transforms-1/files-1.1/play-services-gass-11.0.4.aar/dab979a7dfa83349d29b575305bcd131/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="34c23b5894b4f24d566bfc33e0e25462c6436b78">
+        <dex dex="/Users/santhoshadigau/Desktop/AppSan/AppSan Projects/Weather_Info/app/build/intermediates/transforms/preDex/release/43.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/santhoshadigau/.gradle/wrapper/dists/gradle-1.12-all/caches/transforms-1/files-1.1/support-vector-drawable-26.0.0-alpha1.aar/a97f95b1453bbb00d0e265cb35fa9a86/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="952944218ecedea1554a513dec0c14d570642843">
+        <dex dex="/Users/santhoshadigau/Desktop/AppSan/AppSan Projects/Weather_Info/app/build/intermediates/transforms/preDex/release/53.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/santhoshadigau/.gradle/wrapper/dists/gradle-1.12-all/caches/transforms-1/files-1.1/play-services-safetynet-11.0.4.aar/6b8f6fea31ed8709d2f69586c4c1e9d5/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="f2cb88e7e28736d44e7e643deb80c9af1c3662c8">
+        <dex dex="/Users/santhoshadigau/Desktop/AppSan/AppSan Projects/Weather_Info/app/build/intermediates/transforms/preDex/release/41.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/santhoshadigau/.gradle/wrapper/dists/gradle-1.12-all/caches/transforms-1/files-1.1/transition-26.0.0-alpha1.aar/98834f41513afe8ac51ab2fdf6346c94/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="cddcd0fb93bc70e27325f2f715b2710332004ebb">
+        <dex dex="/Users/santhoshadigau/Desktop/AppSan/AppSan Projects/Weather_Info/app/build/intermediates/transforms/preDex/release/46.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/santhoshadigau/.gradle/wrapper/dists/gradle-1.12-all/caches/transforms-1/files-1.1/support-core-utils-26.0.0-alpha1.aar/030b1a8a25eef8849f1ba7abb82955ba/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="/Users/santhoshadigau/Desktop/AppSan/AppSan Projects/Weather_Info/app/build/intermediates/transforms/preDex/release/55.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/santhoshadigau/.gradle/wrapper/dists/gradle-1.12-all/caches/transforms-1/files-1.1/play-services-ads-11.0.4.aar/3647ecd0f83f2524e9a446e6ff938b1f/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="2c73e2a93e00abd240e495c1e62217e53904a3f3">
+        <dex dex="/Users/santhoshadigau/Desktop/AppSan/AppSan Projects/Weather_Info/app/build/intermediates/transforms/preDex/release/35.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/santhoshadigau/.gradle/wrapper/dists/gradle-1.12-all/caches/transforms-1/files-1.1/support-fragment-26.0.0-alpha1.aar/7366b382f41cedd2279546c495b61dd4/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="/Users/santhoshadigau/Desktop/AppSan/AppSan Projects/Weather_Info/app/build/intermediates/transforms/preDex/release/50.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/santhoshadigau/.gradle/wrapper/dists/gradle-1.12-all/caches/transforms-1/files-1.1/recyclerview-v7-26.0.0-alpha1.aar/1ec533f8516adf4dcb4f861ce6b16918/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="c4f45092eee6cdf1a5dbd597b2b6819be652ce2e">
+        <dex dex="/Users/santhoshadigau/Desktop/AppSan/AppSan Projects/Weather_Info/app/build/intermediates/transforms/preDex/release/49.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/santhoshadigau/.gradle/wrapper/dists/gradle-1.12-all/caches/transforms-1/files-1.1/support-v4-26.0.0-alpha1.aar/cbbbbf22ea04eacceb4ee8be3c61819d/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/santhoshadigau/Desktop/AppSan/AppSan Projects/Weather_Info/app/build/intermediates/transforms/preDex/release/47.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/santhoshadigau/.gradle/wrapper/dists/gradle-1.12-all/caches/transforms-1/files-1.1/support-media-compat-26.0.0-alpha1.aar/d626185c62e7309cea89013df8444abb/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="/Users/santhoshadigau/Desktop/AppSan/AppSan Projects/Weather_Info/app/build/intermediates/transforms/preDex/release/54.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/santhoshadigau/.gradle/wrapper/dists/gradle-1.12-all/caches/transforms-1/files-1.1/support-compat-26.0.0-alpha1.aar/7044c932a32c2f3ef52a1f32548341d1/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="/Users/santhoshadigau/Desktop/AppSan/AppSan Projects/Weather_Info/app/build/intermediates/transforms/preDex/release/56.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/santhoshadigau/.gradle/wrapper/dists/gradle-1.12-all/caches/transforms-1/files-1.1/design-26.0.0-alpha1.aar/c124c8c128d9baac82d8bb76c35223cd/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="6a022bf00ccd0948a8180c505e8e458bbddd43a6">
+        <dex dex="/Users/santhoshadigau/Desktop/AppSan/AppSan Projects/Weather_Info/app/build/intermediates/transforms/preDex/release/30.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/santhoshadigau/.gradle/wrapper/dists/gradle-1.12-all/caches/transforms-1/files-1.1/cardview-v7-26.0.0-alpha1.aar/aacd6d80d4e628118dae970b5fd04214/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="e176fd06c2ad5b50a2f5cb4de6000a83a7cb48f5">
+        <dex dex="/Users/santhoshadigau/Desktop/AppSan/AppSan Projects/Weather_Info/app/build/intermediates/transforms/preDex/release/48.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/santhoshadigau/.gradle/wrapper/dists/gradle-1.12-all/caches/transforms-1/files-1.1/play-services-clearcut-11.0.4.aar/eca4b774b9ec807f78a0793121866c74/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="e7f890dd2539b7f2582f450f0721e2dea6ae510c">
+        <dex dex="/Users/santhoshadigau/Desktop/AppSan/AppSan Projects/Weather_Info/app/build/intermediates/transforms/preDex/release/40.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/santhoshadigau/.gradle/wrapper/dists/gradle-1.12-all/caches/transforms-1/files-1.1/support-core-ui-26.0.0-alpha1.aar/9b15107ed38f4117af4507867a251644/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="/Users/santhoshadigau/Desktop/AppSan/AppSan Projects/Weather_Info/app/build/intermediates/transforms/preDex/release/51.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/santhoshadigau/.gradle/wrapper/dists/gradle-1.12-all/caches/transforms-1/files-1.1/animated-vector-drawable-26.0.0-alpha1.aar/e0fd12f721e4058ee7f3b438630add0d/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
+        <dex dex="/Users/santhoshadigau/Desktop/AppSan/AppSan Projects/Weather_Info/app/build/intermediates/transforms/preDex/release/52.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/santhoshadigau/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/26.0.0-alpha1/support-annotations-26.0.0-alpha1.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="/Users/santhoshadigau/Desktop/AppSan/AppSan Projects/Weather_Info/app/build/intermediates/transforms/preDex/release/57.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/santhoshadigau/.gradle/wrapper/dists/gradle-1.12-all/caches/transforms-1/files-1.1/appcompat-v7-26.0.0-alpha1.aar/298f1b7ff9805564efa8b02e3f756b1a/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
+        <dex dex="/Users/santhoshadigau/Desktop/AppSan/AppSan Projects/Weather_Info/app/build/intermediates/transforms/preDex/release/31.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/santhoshadigau/.gradle/wrapper/dists/gradle-1.12-all/caches/transforms-1/files-1.1/play-services-ads-lite-11.0.4.aar/228e7929af63974afbf67ea9a297af05/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="416fb9ee2fd6e7af0bba04b01d90cb475b1e2074">
+        <dex dex="/Users/santhoshadigau/Desktop/AppSan/AppSan Projects/Weather_Info/app/build/intermediates/transforms/preDex/release/39.jar" />
+    </item>
+
+</items>
